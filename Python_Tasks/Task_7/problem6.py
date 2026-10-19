@@ -1,4 +1,4 @@
-# 6.programs
+# 6.pangrams
 # Hacker rank link:
 https://www.hackerrank.com/challenges/pangrams/problem
 
